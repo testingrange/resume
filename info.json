@@ -1,0 +1,25 @@
+{
+    "name": "Konstantin Pashkov",
+    "linkedin": "https://www.linkedin.com/in/konstantinpashkov/",
+    "github": "https://github.com/testingrange",
+    "email": "testingrange@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Node",
+        "Mongodb",
+        "MySQL",
+        "Python",
+        "Pytest"
+    ],
+    "otherSkills": [
+        "Office applications",
+        "Touch typing"
+    ],
+    "languages": [
+        "Russian",
+        "English"
+    ]
+}
